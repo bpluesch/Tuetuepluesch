@@ -1,6 +1,6 @@
 # Plüschies Poesiealbum 
 
-![](https://www.instagram.com/tuetuepluesch/)
+![](../Tuetuepluesch/images/tuetuepluesch.jpg)
 
 # 2025
  
