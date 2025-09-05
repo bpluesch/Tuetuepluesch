@@ -1,6 +1,8 @@
 # Plüschies Poesiealbum 
 
-![](../Tuetuepluesch/images/tuetuepluesch.jpg)
+Test
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthvnext.bing.com%2Fth%2Fid%2FOIP.lzUwaH51f2tsh-7phpKq2wHaEX%3Fcb%3Ducfimgc2%26pid%3DApi&f=1&ipt=83e9484008a816a000abf0b68e34f0a87ff340653ac0178c2a838fbb7c5a1c7f&ipo=images)
 
 # 2025
  
@@ -73,3 +75,6 @@ Wann? VINETA Einweihungsparty
 04.09.21 Badaboom NMS 
 
 17.09.21 Der doofe Kutter-Olli Glückstadt 
+
+
+[def]: https://opendata.schleswig-holstein.de/
