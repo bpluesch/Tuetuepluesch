@@ -217,20 +217,27 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 
 
-
-
 # 2021 
-17.09.21 Der doofe Kutter-Olli Glückstadt 
+## Der doofe Kutter-Olli Glückstadt
 
-04.09.21 Badaboom NMS 
+>**Der doofe Kutter-Olli Glückstadt, 17.09.21**
+
+## Badaboom NMS
+
+>**Badaboom NMS, 04.09.21** 
 
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476433396_970093011883355_2643699570871203287_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=PKBTwOXvFxUQ7kNvwG9Y6_i&_nc_oc=Adl3Yj8KAcTXb9dBSwsqUhxRVmSHXfdyTYakzpuU9j7236HoBffCl52KLiiaKy7r2SA&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=YGEGJdJE2guvgZm47Jcl0A&oh=00_Afaw8qLK0Z9IS_yMtVy9bdegoWqfFoixR0lw_4-rF80u2Q&oe=68C1D278)
 
-28.08.25 Vor Cafe Lykkestadt Glückstadt 
+## Vor Cafe Lykkestadt Glückstadt
 
-10.07.21 Irgendwo für Jenny 
+>**Vor Cafe Lykkestadt Glückstadt, 28.08.21**
 
-27.03.21 Janet’s heimliche WoZi-Party Sehestedt 
+## Irgendwo für Jenny
+
+>**Irgendwo für Jenny, 10.07.21**
+
+## Janet’s heimliche WoZi-Party Sehestedt
+>**Janet’s heimliche WoZi-Party Sehestedt, 27.03.21 **
 
 
 # vor 2021
