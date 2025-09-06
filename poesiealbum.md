@@ -6,7 +6,7 @@ version:  0.1.0
 language: de
 
 
-icon:     images/0000_logo.jpg
+icon:     https://scontent-ham3-1.xx.fbcdn.net/v/t1.6435-9/166033081_109160117935435_6716537114089072884_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=EaSQcy76RAYQ7kNvwFddIep&_nc_oc=AdmuZnUwIp_c3X3VlW-OGC3ThJPSgCp1VGH6YGP0VSQRah64oJr2q6ZP90zwSeEhhaQ&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=gV5Vt9UQolPmSdnlDKlZNA&oh=00_AfaKSb-XeGuyiUq93lV6awN7BOYg6tn77x5nPTp-SwtQZQ&oe=68E36840
 
 comment:  Tütü Plüschs digitales Poesiealbum
 
@@ -44,6 +44,8 @@ comment:  Tütü Plüschs digitales Poesiealbum
 
 >**Andere Seite der Welt Negenharrie, 29.08.25**  
 
+![](images/2025_andereseite_00.jpg)
+
 ![](images/2025_andereseite_01.jpg)
 ![](images/2025_andereseite_02.jpg)
 ![](images/2025_andereseite_03.jpg)
@@ -57,6 +59,8 @@ comment:  Tütü Plüschs digitales Poesiealbum
 ## High Humidity
 
 >**High Humidity Kiel, 14.06.25**
+
+!?[](images/2025_hihu_01.mp4)
 
 ![](images/2025_hihu_01.jpg)
 ![](images/2025_hihu_02.jpg)
@@ -161,6 +165,7 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/475969695_970093098550013_1167407757568085761_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=NuhRuLmamtEQ7kNvwH3dCxe&_nc_oc=AdkvUG0YEhtsTUUsx2ZQ3u0qGQ7HS8SA-1DwnVoLuiuXWw9uUFM6GUM7baCUCgbZKro&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=rM7Mj6YvMHA3J0sdX4WXdA&oh=00_AfaCeC0wV6_JKZ2JACtN-xKp8_ns--FkME6X9yT274xTuw&oe=68C1CD8F)
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476146441_970093088550014_1302329010060950572_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=LlglJVYA1ykQ7kNvwFfaCX_&_nc_oc=AdkLBtAtGH_oaH7-nXzTOKoc1XL600D59nAKooXKum3fQzJya46cZHxLuDq3vsVrYo0&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=iCmeF2aB6rf7lYEi6y4Zxw&oh=00_Afa6VJnncPSVMWE0NTrNfps8KVuqGPFulG3drnGimnEwTw&oe=68C1A695)
+![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/475826792_970093041883352_422307330502546004_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=dzruL2u79YYQ7kNvwEDNf8S&_nc_oc=AdmOeinQ-3yhdmjQr8JOtBb9TjlN7zeyJQ5dnYzeuDZs5taXdizaK0Cp57rWtij9dU0&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=5HDA05gJ8nw1PL99z1WybQ&oh=00_AfbWzY1320MWCdGydpbfGJ2yB4wnoonnYb1ior2X2Rv72w&oe=68C1EC7D)
 
 
 
