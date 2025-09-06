@@ -50,6 +50,7 @@ comment:  Tütü Plüschs digitales Poesiealbum
 ![](images/2025_andereseite_02.jpg)
 ![](images/2025_andereseite_03.jpg)
 
+
 ## FAW Sommerfest
 
 >**FAW Sommerfest Kiel, 04.07.25**  
@@ -123,22 +124,48 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 >**Offener Kanal Kiel, 31.08.24**
 
-## 17.08.24 Freibad Osterrönfeld 
+## Freibad Osterrönfeld 
 
->**17.08.24 Freibad Osterrönfeld**
+>**Freibad Osterrönfeld, 17.08.24 **
+
+## Teddys Geburtstag
+
+>**Teddys Geburtstag, 08.06.2024**
+
+![](images/2024_teddy_02.jpg)
+![](images/2024_teddy_03.jpg)
+![](images/2024_teddy_04.jpg)
+![](images/2024_teddy_05.jpg)
+![](images/2024_teddy_06.jpg)
+![](images/2024_teddy_07.jpg)
+![](images/2024_teddy_08.jpg)
 
 ## 01.06.24 High Humidity Kiel
 
->**01.06.24 High Humidity Kiel**
+>**High Humidity Kiel, 01.06.24**
+
+!?[](images/2024_hihu_01.mp4)
 
 ## Verwaltungsfest CAU Kiel
->**31.05.24 Verwaltungsfest CAU Kiel**
+>**Verwaltungsfest CAU Kiel, 31.05.24**
+
+![](images/2024_CAU_01.jpeg)
+
 
 ## Kulturrotation
 
 >**Kulturrotation Gaarden, 25.05.24**
 
+![](images/2024_kulturrotation_01.jpg)
+![](images/2024_kulturrotation_02.jpg)
+![](images/2024_kulturrotation_03.jpg)
+![](images/2024_kulturrotation_04.jpg)
+
+
 ## VINETA Einweihungsparty 
+
+>**Hey, Taxi!**
+
 
 # 2023 
 ## Imkerverein Kiel
@@ -160,6 +187,9 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 >**Annettes Geburtstag Mühle, 17.02.23**
 
+![](images/2023_mühle_01.jpeg)
+![](images/2023_mühle_02.jpeg)
+
 ## Christians Geburtstag am Kanal
 >**Christians Geburtstagskonzert am Kanal**
 
@@ -168,14 +198,22 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/475826792_970093041883352_422307330502546004_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=dzruL2u79YYQ7kNvwEDNf8S&_nc_oc=AdmOeinQ-3yhdmjQr8JOtBb9TjlN7zeyJQ5dnYzeuDZs5taXdizaK0Cp57rWtij9dU0&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=5HDA05gJ8nw1PL99z1WybQ&oh=00_AfbWzY1320MWCdGydpbfGJ2yB4wnoonnYb1ior2X2Rv72w&oe=68C1EC7D)
 
 
-
-
-
 # 2022 
-17.09.22 Zwergfestival Sehestedt 
-27.05.22 Geb. Maxi Glückstadt 
-14.05.22 Kulturrotation Gaarden 
-19.03.22 Annettes Geburtstag Mühle 
+## Zwergfestival Sehestedt
+
+> **Zwergfestival Sehestedt, 17.09.22** 
+
+## Geb. Maxi Glückstadt
+
+>**Glückstadt, 27.05.22** 
+
+## Kulturrotation Gaarden 
+
+>**Kulturrotation Gaarden, 14.05.22**
+
+## Annettes Geburtstag Mühle 
+
+>**Annettes Geburtstag Mühle, 19.03.22** 
 
 
 
