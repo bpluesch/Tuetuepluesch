@@ -14,102 +14,181 @@ comment:  Tütü Plüschs digitales Poesiealbum
 
 # Tütü Plüschis digitales Poesiealbum
 
-![](../Tuetuepluesch/images/tuetuepluesch.jpg)
+![](images/tuetuepluesch.jpg)
 
 # 2025
- 
+
+![](images/0000_paris.jpg)
+
+## Halloweenparty Eiderland
+
 >[**Halloweenparty Eiderland e.V. Rendsburg, 01.11.2025**](https://www.eiderland-musik.de/) 
 
 *upcoming... ✨*
+
+## Badaboom NMS
 
 >[**Badaboom NMS, 14.09.25**  ](https://ba-da-boom.de/)
 
 *upcoming... ✨*
 
+## Leuchtturmfest Friedrichsort
+
 >**Leuchtturmfest Friedrichsort, 07.09.25**  
 
 *upcoming... ✨*
 
-![](../Tuetuepluesch/images/2025_Leuchtturmfest_Plakat.png)
+![](images/2025_Leuchtturmfest_Plakat.png)
+
+## Andere Seite der Welt
 
 >**Andere Seite der Welt Negenharrie, 29.08.25**  
 
-![](../Tuetuepluesch/images/2025_andereseite_01.jpg)
-![](../Tuetuepluesch/images/2025_andereseite_02.jpg)
-![](../Tuetuepluesch/images/2025_andereseite_03.jpg)
+![](images/2025_andereseite_01.jpg)
+![](images/2025_andereseite_02.jpg)
+![](images/2025_andereseite_03.jpg)
+
+## FAW Sommerfest
 
 >**FAW Sommerfest Kiel, 04.07.25**  
 
-![](../Tuetuepluesch/images/2025_FAW_01.jpg)
+![](images/2025_FAW_01.jpg)
+
+## High Humidity
 
 >**High Humidity Kiel, 14.06.25**
 
+![](images/2025_hihu_01.jpg)
+![](images/2025_hihu_02.jpg)
+
+## Holstenköste
+
 >**Holstenköste NMS, 13.06.25** 
+
+![](images/2025_holstenkoeste_01.jpeg)
+![](images/2025_holstenkoeste_02.jpeg)
+![](images/2025_holstenkoeste_03.jpeg)
+![](images/2025_holstenkoeste_04.jpeg)
+
+## Campusfestival Kiel
 
 >[**Campusfestival Kiel, 06.06.25**](https://campusfestival-kiel.de/line-up/tutuplusch/)
 
+Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für die tollen Fotos! ✨
+
+![](images/2025_campus_02.jpg)
+![](images/2025_campus_03.jpg)
+![](images/2025_campus_04.jpg)
+![](images/2025_campus_05.jpg)
+![](images/2025_campus_06.jpg)
+![](images/2025_campus_01.jpeg)
+
+## Sabine geht in Rente
+
 >**Sabine geht in Rente-Party Tasdorf, 24.05.25**
+
+![](images/2025_sabine_01.jpeg)
+![](images/2025_sabine_02.jpeg)
+
+!?[](images/2025_sabine_01.mp4)
+
+## Druckerei Preetz
 
 >**Druckerei Preetz, 16.04.25**
 
 
 # 2024 
 
-25.05.24 Kulturrotation Gaarden 
+![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476139901_970093081883348_502470129932649482_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=uigZ1YSad_MQ7kNvwELLf0e&_nc_oc=AdlqqeNzuD2c-zugo6tVo3VGK8hsSihCvLDLlGpHC7pAKmtpye0ZVgZFtAH3PXpgpQ8&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=Ki2wcBQAdkDSd4VO8jej3Q&oh=00_Afa5GDUc-8kGKQS9EQsKeP0dgs9eG3F_Hol1QrJrNakKzg&oe=68C1DA1E)
 
-31.05.24 Verwaltungsfest CAU Kiel 
+## Halloween Bokel
 
-01.06.24 High Humidity Kiel 
+>**Halloween Bokel, 01.11.24** 
 
-17.08.24 Freibad Osterrönfeld 
+## Freie Schule Preetz
 
-31.08.24 Offener Kanal Kiel 
+>**Freie Schule Preetz, 28.09.24**
 
-14.09.24 Badaboom NMS 
+## Badaboom NMS
+
+>**Badaboom NMS, 14.09.24**
 
 ![](../Tuetuepluesch/images/2024_badaboom.jpg)
 
-28.09.24 Freie Schule Preetz 
+## Offener Kanal Kiel 
 
-01.11.24 Halloween Bokel 
+>**Offener Kanal Kiel, 31.08.24**
 
-Wann? VINETA Einweihungsparty 
+## 17.08.24 Freibad Osterrönfeld 
+
+>**17.08.24 Freibad Osterrönfeld**
+
+## 01.06.24 High Humidity Kiel
+
+>**01.06.24 High Humidity Kiel**
+
+## Verwaltungsfest CAU Kiel
+>**31.05.24 Verwaltungsfest CAU Kiel**
+
+## Kulturrotation
+
+>**Kulturrotation Gaarden, 25.05.24**
+
+## VINETA Einweihungsparty 
 
 # 2023 
-17.02.23 Annettes Geburtstag Mühle 
+## Imkerverein Kiel
 
-06.05.23 Kulturrotation Gaarden 
+>**Jubiläum Imkerverein Kiel, 07.10.23  :-)**
 
-27.05.23 Maxi’s Geburtstag Glückstadt 
+## Frank & Carola Mühle
 
+>**Geburtstagsparty Frank & Carola Mühle, 15.07.23**
+
+## Maxi’s Geburtstag
+>**Maxi’s Geburtstag Glückstadt, 27.05.23**
+
+## Kulturrotation Gaarden 
+
+>**Kulturrotation Gaarden, 06.05.23**
+
+## Annettes Geburtstag Mühle 
+
+>**Annettes Geburtstag Mühle, 17.02.23**
+
+## Christians Geburtstag am Kanal
 >**Christians Geburtstagskonzert am Kanal**
 
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/475969695_970093098550013_1167407757568085761_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=NuhRuLmamtEQ7kNvwH3dCxe&_nc_oc=AdkvUG0YEhtsTUUsx2ZQ3u0qGQ7HS8SA-1DwnVoLuiuXWw9uUFM6GUM7baCUCgbZKro&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=rM7Mj6YvMHA3J0sdX4WXdA&oh=00_AfaCeC0wV6_JKZ2JACtN-xKp8_ns--FkME6X9yT274xTuw&oe=68C1CD8F)
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476146441_970093088550014_1302329010060950572_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=LlglJVYA1ykQ7kNvwFfaCX_&_nc_oc=AdkLBtAtGH_oaH7-nXzTOKoc1XL600D59nAKooXKum3fQzJya46cZHxLuDq3vsVrYo0&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=iCmeF2aB6rf7lYEi6y4Zxw&oh=00_Afa6VJnncPSVMWE0NTrNfps8KVuqGPFulG3drnGimnEwTw&oe=68C1A695)
 
-15.07.23 Geburtstagsparty Frank & Carola Mühle 
 
-07.10.23 Jubiläum Imkerverein Kiel :-)
+
+
 
 # 2022 
+17.09.22 Zwergfestival Sehestedt 
+27.05.22 Geb. Maxi Glückstadt 
+14.05.22 Kulturrotation Gaarden 
 19.03.22 Annettes Geburtstag Mühle 
 
-14.05.22 Kulturrotation Gaarden 
 
-27.05.22 Geb. Maxi Glückstadt 
 
-17.09.22 Zwergfestival Sehestedt 
+
 
 # 2021 
-27.03.21 Janet’s heimliche WoZi-Party Sehestedt 
-
-10.07.21 Irgendwo für Jenny 
-
-28.08.25 Vor Cafe Lykkestadt Glückstadt 
+17.09.21 Der doofe Kutter-Olli Glückstadt 
 
 04.09.21 Badaboom NMS 
 
-17.09.21 Der doofe Kutter-Olli Glückstadt 
+![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476433396_970093011883355_2643699570871203287_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=PKBTwOXvFxUQ7kNvwG9Y6_i&_nc_oc=Adl3Yj8KAcTXb9dBSwsqUhxRVmSHXfdyTYakzpuU9j7236HoBffCl52KLiiaKy7r2SA&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=YGEGJdJE2guvgZm47Jcl0A&oh=00_Afaw8qLK0Z9IS_yMtVy9bdegoWqfFoixR0lw_4-rF80u2Q&oe=68C1D278)
+
+28.08.25 Vor Cafe Lykkestadt Glückstadt 
+
+10.07.21 Irgendwo für Jenny 
+
+27.03.21 Janet’s heimliche WoZi-Party Sehestedt 
+
 
 # vor 2021
 
@@ -129,7 +208,5 @@ Wann? VINETA Einweihungsparty
 >**Damals im Bunker...**
 
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476146950_970093055216684_3868579571799959417_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=UCYXibpkPcwQ7kNvwFpyKLH&_nc_oc=AdklOGbStx7R63AABuPBoPiD97byMkbmgfTsw5bt7LkhlY0LTVTYomB3qoODH_EK_PI&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=3GAlkiMe6Eod_xSVuHG0cw&oh=00_AfZdDQ2Mbi_25QicAusFrRZH1-cn6fIymmTzyRqG0fErfg&oe=68C1D19B)
-
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476218510_970092958550027_1941640883906438194_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=tyB1FH4XwUoQ7kNvwHq1GNl&_nc_oc=Adl9fTX1r3C_ORfWMeHGcQSJb49mIQe-ROeWcEc1M9h9l6els84pzoDut1l-ouyndwg&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=alqVlqZBWMf2riCpcMIx-g&oh=00_AfaU4gsjzajUnStdomFz9ARvfsCDb8_lpKGC2RK5TdHRHA&oe=68C1D0FB)
-
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476110534_970092981883358_217809983363935669_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=xbaBYJZdk4MQ7kNvwGYFhZP&_nc_oc=Adktb5rGjUOgwYmCqjn4f97wa9ewGXcD2Pd5mKnLJqWROfDcRCoG-zrz6L15lBkLNXA&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=qeLM7tNONuDxXrjGngN0DQ&oh=00_AfYCs1MoRXOfH2MzXRYaV1mRaceOlRYbkfEllhYb6jBLyg&oe=68C1D18B)
