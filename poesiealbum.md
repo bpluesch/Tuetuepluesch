@@ -48,7 +48,9 @@ comment:  Tütü Plüschs digitales Poesiealbum
 
 ![](images/2025_andereseite_01.jpg)
 ![](images/2025_andereseite_02.jpg)
+
 ![](images/2025_andereseite_03.jpg)
+![](images/2025_andereseite_05.jpg)
 
 
 ## FAW Sommerfest
@@ -71,21 +73,29 @@ comment:  Tütü Plüschs digitales Poesiealbum
 >**Holstenköste NMS, 13.06.25** 
 
 ![](images/2025_holstenkoeste_01.jpeg)
-![](images/2025_holstenkoeste_02.jpeg)
 ![](images/2025_holstenkoeste_03.jpeg)
+
+![](images/2025_holstenkoeste_02.jpeg)
 ![](images/2025_holstenkoeste_04.jpeg)
 
 ## Campusfestival Kiel
 
 >[**Campusfestival Kiel, 06.06.25**](https://campusfestival-kiel.de/line-up/tutuplusch/)
 
+![](images/2025_campusfestival.jpg)
+
 Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für die tollen Fotos! ✨
 
 ![](images/2025_campus_02.jpg)
 ![](images/2025_campus_03.jpg)
 ![](images/2025_campus_04.jpg)
+
 ![](images/2025_campus_05.jpg)
+![](images/2025_campus_07.jpg)
+![](images/2025_campus_08.jpg)
+
 ![](images/2025_campus_06.jpg)
+![](images/2025_campus_09.jpg)
 ![](images/2025_campus_01.jpeg)
 
 ## Sabine geht in Rente
@@ -101,6 +111,7 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 >**Druckerei Preetz, 16.04.25**
 
+Hmmm, wer hat denn da wohl Fotos...???
 
 # 2024 
 
@@ -110,6 +121,8 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 >**Halloween Bokel, 01.11.24** 
 
+Auch hier fehlen mir Fotos...
+
 ## Freie Schule Preetz
 
 >**Freie Schule Preetz, 28.09.24**
@@ -118,7 +131,7 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 >**Badaboom NMS, 14.09.24**
 
-![](../Tuetuepluesch/images/2024_badaboom.jpg)
+![](images/2024_badaboom.jpg)
 
 ## Offener Kanal Kiel 
 
@@ -126,16 +139,18 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 ## Freibad Osterrönfeld 
 
->**Freibad Osterrönfeld, 17.08.24 **
+>**Freibad Osterrönfeld, 17.08.24**
 
 ## Teddys Geburtstag
 
 >**Teddys Geburtstag, 08.06.2024**
 
 ![](images/2024_teddy_02.jpg)
+
 ![](images/2024_teddy_03.jpg)
 ![](images/2024_teddy_04.jpg)
 ![](images/2024_teddy_05.jpg)
+
 ![](images/2024_teddy_06.jpg)
 ![](images/2024_teddy_07.jpg)
 ![](images/2024_teddy_08.jpg)
@@ -156,32 +171,83 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 
 >**Kulturrotation Gaarden, 25.05.24**
 
+!?[](images/2024_kulturrotation_01.mp4)
+
+![](images/2024_kulturrotation_10.jpg)
 ![](images/2024_kulturrotation_01.jpg)
 ![](images/2024_kulturrotation_02.jpg)
+
 ![](images/2024_kulturrotation_03.jpg)
 ![](images/2024_kulturrotation_04.jpg)
-
-
-## VINETA Einweihungsparty 
-
->**Hey, Taxi!**
+![](images/2024_kulturrotation_11.jpg)
 
 
 # 2023 
-## Imkerverein Kiel
+## Imkerverein Kiel 🐝
 
 >**Jubiläum Imkerverein Kiel, 07.10.23  :-)**
+
+![](images/2023_imker_01.jpeg)
+![](images/2023_imker_02.jpeg)
+
+## Festival am kleinen Strand
+
+>**Friedrichort, 02.09.2023**
+
+![](images/2023_friedrichsort_01.jpeg)
+![](images/2023_friedrichsort_02.jpeg)
+![](images/2023_friedrichsort_03.jpeg)
+
+## Die andere Seite der Welt 
+>**Die andere Seite der Welt, Ovendorf**
+
+!?[](images/2023_andereseite_01.mp4)
+
+![](images/2023_andereseite_02.jpg)
+![](images/2023_andereseite_03.jpg)
+![](images/2023_andereseite_04.jpg)
+
+!?[](images/2023_andereseite_03.mp4)
+
+
 
 ## Frank & Carola Mühle
 
 >**Geburtstagsparty Frank & Carola Mühle, 15.07.23**
 
+![](images/2023_muehle_01.jpeg)
+![](images/2023_muehle_02.jpeg)
+![](images/2023_muehle_03.jpeg)
+![](images/2023_muehle_04.jpeg)
+
+!?[](images/2023_muehle_01.mp4)
+
+## VINETA Einweihungsparty 
+
+>**Hey, Taxi!**
+
+![](images/2023_taxi_01.jpeg)
+![](images/2023_taxi_02.jpeg)
+![](images/2023_taxi_03.jpeg)
+![](images/2023_taxi_04.jpeg)
+
+
 ## Maxi’s Geburtstag
 >**Maxi’s Geburtstag Glückstadt, 27.05.23**
+
+![](images/2023_glueckstadt_00.jpeg)
+
+![](images/2023_glueckstadt_01.jpeg)
+![](images/2023_glueckstadt_02.jpeg)
+
+!?[](images/2023_glueckstadt_01.mp4)
+
 
 ## Kulturrotation Gaarden 
 
 >**Kulturrotation Gaarden, 06.05.23**
+
+Hmmm, das war doch auf der Minigolfbahn... Wer hat Fotos?
 
 ## Annettes Geburtstag Mühle 
 
@@ -190,43 +256,57 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 ![](images/2023_mühle_01.jpeg)
 ![](images/2023_mühle_02.jpeg)
 
-## Christians Geburtstag am Kanal
->**Christians Geburtstagskonzert am Kanal**
-
-![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/475969695_970093098550013_1167407757568085761_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=NuhRuLmamtEQ7kNvwH3dCxe&_nc_oc=AdkvUG0YEhtsTUUsx2ZQ3u0qGQ7HS8SA-1DwnVoLuiuXWw9uUFM6GUM7baCUCgbZKro&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=rM7Mj6YvMHA3J0sdX4WXdA&oh=00_AfaCeC0wV6_JKZ2JACtN-xKp8_ns--FkME6X9yT274xTuw&oe=68C1CD8F)
-![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476146441_970093088550014_1302329010060950572_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=LlglJVYA1ykQ7kNvwFfaCX_&_nc_oc=AdkLBtAtGH_oaH7-nXzTOKoc1XL600D59nAKooXKum3fQzJya46cZHxLuDq3vsVrYo0&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=iCmeF2aB6rf7lYEi6y4Zxw&oh=00_Afa6VJnncPSVMWE0NTrNfps8KVuqGPFulG3drnGimnEwTw&oe=68C1A695)
-![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/475826792_970093041883352_422307330502546004_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=dzruL2u79YYQ7kNvwEDNf8S&_nc_oc=AdmOeinQ-3yhdmjQr8JOtBb9TjlN7zeyJQ5dnYzeuDZs5taXdizaK0Cp57rWtij9dU0&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=5HDA05gJ8nw1PL99z1WybQ&oh=00_AfbWzY1320MWCdGydpbfGJ2yB4wnoonnYb1ior2X2Rv72w&oe=68C1EC7D)
-
-
 # 2022 
 ## Zwergfestival Sehestedt
 
 > **Zwergfestival Sehestedt, 17.09.22** 
 
+![](images/2022_sehestedt_01.jpeg)
+
+## Christians Geburtstag am Kanal
+>**Christians Geburtstagskonzert am Kanal**
+
+![](images/2022_kanal_01.jpeg)
+![](images/2022_kanal_02.jpeg)
+![](images/2022_kanal_03.jpeg)
+![](images/2022_kanal_04.jpeg)
+
 ## Geb. Maxi Glückstadt
 
 >**Glückstadt, 27.05.22** 
+
+![](images/2022_glueckstadt_01.jpeg)
 
 ## Kulturrotation Gaarden 
 
 >**Kulturrotation Gaarden, 14.05.22**
 
+![](images/2021_kukturrotation_01.jpeg)
+![](images/2021_kukturrotation_02.jpeg)
+![](images/2021_kukturrotation_03.jpeg)
+
 ## Annettes Geburtstag Mühle 
 
 >**Annettes Geburtstag Mühle, 19.03.22** 
 
-
-
 # 2021 
+
 ## Der doofe Kutter-Olli Glückstadt
 
 >**Der doofe Kutter-Olli Glückstadt, 17.09.21**
+
+![](images/2021_kutter_01.jpeg)
+
+![](images/2021_kutter_02.jpeg)
+![](images/2021_kutter_03.jpeg)
 
 ## Badaboom NMS
 
 >**Badaboom NMS, 04.09.21** 
 
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476433396_970093011883355_2643699570871203287_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=PKBTwOXvFxUQ7kNvwG9Y6_i&_nc_oc=Adl3Yj8KAcTXb9dBSwsqUhxRVmSHXfdyTYakzpuU9j7236HoBffCl52KLiiaKy7r2SA&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=YGEGJdJE2guvgZm47Jcl0A&oh=00_Afaw8qLK0Z9IS_yMtVy9bdegoWqfFoixR0lw_4-rF80u2Q&oe=68C1D278)
+
+![](images/2021_badaboom_01.jpeg)
 
 ## Vor Cafe Lykkestadt Glückstadt
 
