@@ -50,7 +50,7 @@ comment:  Tütü Plüschs digitales Poesiealbum
 ![](images/2025_andereseite_02.jpg)
 
 ![](images/2025_andereseite_03.jpg)
-![](images/2025_andereseite_05.jpg)
+![](images/2025_anadereseite_05.jpg)
 
 
 ## FAW Sommerfest
@@ -95,8 +95,11 @@ Danke an [nordisch_by_musik](https://www.instagram.com/nordisch_by_musik/) für 
 ![](images/2025_campus_08.jpg)
 
 ![](images/2025_campus_06.jpg)
-![](images/2025_campus_09.jpg)
-![](images/2025_campus_01.jpeg)
+![](images/2025_campus_01.jpg)
+
+# Raffis Geburtstag bei Klau Groth
+
+
 
 ## Sabine geht in Rente
 
@@ -115,7 +118,7 @@ Hmmm, wer hat denn da wohl Fotos...???
 
 # 2024 
 
-![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476139901_970093081883348_502470129932649482_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_ohc=uigZ1YSad_MQ7kNvwELLf0e&_nc_oc=AdlqqeNzuD2c-zugo6tVo3VGK8hsSihCvLDLlGpHC7pAKmtpye0ZVgZFtAH3PXpgpQ8&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=Ki2wcBQAdkDSd4VO8jej3Q&oh=00_Afa5GDUc-8kGKQS9EQsKeP0dgs9eG3F_Hol1QrJrNakKzg&oe=68C1DA1E)
+![](images/2024_aufnahme_01.jpeg)
 
 ## Halloween Bokel
 
@@ -145,9 +148,9 @@ Auch hier fehlen mir Fotos...
 
 >**Teddys Geburtstag, 08.06.2024**
 
-![](images/2024_teddy_02.jpg)
+![](images/2024_teddy_08.jpg)
 
-![](images/2024_teddy_03.jpg)
+![](images/2024_teddy_01.jpg)
 ![](images/2024_teddy_04.jpg)
 ![](images/2024_teddy_05.jpg)
 
@@ -183,6 +186,9 @@ Auch hier fehlen mir Fotos...
 
 
 # 2023 
+
+![](images/2024_tina_01.jpg)
+
 ## Imkerverein Kiel 🐝
 
 >**Jubiläum Imkerverein Kiel, 07.10.23  :-)**
@@ -208,7 +214,6 @@ Auch hier fehlen mir Fotos...
 ![](images/2023_andereseite_04.jpg)
 
 !?[](images/2023_andereseite_03.mp4)
-
 
 
 ## Frank & Carola Mühle
@@ -282,12 +287,15 @@ Hmmm, das war doch auf der Minigolfbahn... Wer hat Fotos?
 >**Kulturrotation Gaarden, 14.05.22**
 
 ![](images/2021_kukturrotation_01.jpeg)
-![](images/2021_kukturrotation_02.jpeg)
-![](images/2021_kukturrotation_03.jpeg)
+
+![](images/2021_kulturrotation_00.jpeg)
+![](images/2021_kulturrotation.jpeg)
 
 ## Annettes Geburtstag Mühle 
 
 >**Annettes Geburtstag Mühle, 19.03.22** 
+
+![](images/2022_muehle_01.jpeg)
 
 # 2021 
 
