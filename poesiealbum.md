@@ -24,7 +24,10 @@ comment:  Tütü Plüschs digitales Poesiealbum
 
 >[**Halloweenparty Eiderland e.V. Rendsburg, 01.11.2025**](https://www.eiderland-musik.de/) 
 
-*upcoming... ✨*
+![](images/2025-11-1_EiderlandMusikverein_01.jpg)
+![](images/2025-11-1_EiderlandMusikverein_02.jpg)
+![](images/2025-11-1_EiderlandMusikverein_03.jpg)
+![](images/2025-11-1_EiderlandMusikverein_04.jpg)
 
 ## Badaboom NMS
 
