@@ -6,7 +6,7 @@ version:  0.1.0
 language: de
 
 
-icon:     https://scontent-ham3-1.xx.fbcdn.net/v/t1.6435-9/166033081_109160117935435_6716537114089072884_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=EaSQcy76RAYQ7kNvwFddIep&_nc_oc=AdmuZnUwIp_c3X3VlW-OGC3ThJPSgCp1VGH6YGP0VSQRah64oJr2q6ZP90zwSeEhhaQ&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=gV5Vt9UQolPmSdnlDKlZNA&oh=00_AfaKSb-XeGuyiUq93lV6awN7BOYg6tn77x5nPTp-SwtQZQ&oe=68E36840
+icon:    images/pluesch_logo.webp
 
 comment:  Tütü Plüschs digitales Poesiealbum
 
@@ -143,9 +143,14 @@ Auch hier fehlen mir Fotos...
 
 >**Offener Kanal Kiel, 31.08.24**
 
+![](images/2024_okkiel_02.webp)
+
 ## Freibad Osterrönfeld 
 
 >**Freibad Osterrönfeld, 17.08.24**
+
+![](images/2024_freibad_01.webp)
+![](images/2024_freibad_02.webp)
 
 ## Teddys Geburtstag
 
@@ -351,3 +356,4 @@ Hmmm, das war doch auf der Minigolfbahn... Wer hat Fotos?
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476146950_970093055216684_3868579571799959417_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=UCYXibpkPcwQ7kNvwFpyKLH&_nc_oc=AdklOGbStx7R63AABuPBoPiD97byMkbmgfTsw5bt7LkhlY0LTVTYomB3qoODH_EK_PI&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=3GAlkiMe6Eod_xSVuHG0cw&oh=00_AfZdDQ2Mbi_25QicAusFrRZH1-cn6fIymmTzyRqG0fErfg&oe=68C1D19B)
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476218510_970092958550027_1941640883906438194_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=tyB1FH4XwUoQ7kNvwHq1GNl&_nc_oc=Adl9fTX1r3C_ORfWMeHGcQSJb49mIQe-ROeWcEc1M9h9l6els84pzoDut1l-ouyndwg&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=alqVlqZBWMf2riCpcMIx-g&oh=00_AfaU4gsjzajUnStdomFz9ARvfsCDb8_lpKGC2RK5TdHRHA&oe=68C1D0FB)
 ![](https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/476110534_970092981883358_217809983363935669_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=xbaBYJZdk4MQ7kNvwGYFhZP&_nc_oc=Adktb5rGjUOgwYmCqjn4f97wa9ewGXcD2Pd5mKnLJqWROfDcRCoG-zrz6L15lBkLNXA&_nc_zt=23&_nc_ht=scontent-ham3-1.xx&_nc_gid=qeLM7tNONuDxXrjGngN0DQ&oh=00_AfYCs1MoRXOfH2MzXRYaV1mRaceOlRYbkfEllhYb6jBLyg&oe=68C1D18B)
+
